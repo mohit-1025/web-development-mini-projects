@@ -1,6 +1,6 @@
 # 🌐 Web Development Mini Projects
 
-A growing collection of **mini web projects** — small front-end builds, UI clones, and experiments, each kept in its own folder.
+A collection of **mini web projects** — small front-end builds, UI clones, and experiments, each kept in its own folder.
 
 Every project is self-contained: open its `index.html` in a browser, or serve the repo locally and browse to it.
 
